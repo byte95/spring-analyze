@@ -29,6 +29,8 @@ import org.springframework.core.annotation.AliasFor;
 /**
  * Indicates that a method produces a bean to be managed by the Spring container.
  *
+ * Bean 的作用：表示一个方法产生了一个由Spring容器管理的bean。
+ *
  * <h3>Overview</h3>
  *
  * <p>The names and semantics of the attributes to this annotation are intentionally

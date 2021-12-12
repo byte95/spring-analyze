@@ -32,6 +32,8 @@ import org.springframework.stereotype.Component;
  * may be processed by the Spring container to generate bean definitions and
  * service requests for those beans at runtime, for example:
  *
+ * Configuration 的作用：表示一个类声明一个或多个Bean方法，并且在Spring容器运行时为这些Bean生成Bean定义和服务请求。
+ *
  * <pre class="code">
  * &#064;Configuration
  * public class AppConfig {

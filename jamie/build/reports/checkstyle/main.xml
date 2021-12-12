@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.22">
+<file name="/Users/jamiewu/Workspace/source/spring-framework-5.3.1/jamie/src/main/java/com/jamie/ApplicationRun.java">
+</file>
+<file name="/Users/jamiewu/Workspace/source/spring-framework-5.3.1/jamie/src/main/java/com/jamie/bean/UserService.java">
+</file>
+<file name="/Users/jamiewu/Workspace/source/spring-framework-5.3.1/jamie/src/main/java/com/jamie/config/Config.java">
+</file>
+</checkstyle>
